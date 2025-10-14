@@ -14,6 +14,9 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("SwiftfulThinking")
+            Text("SwiftfulThinking")
+            Text("SwiftfulThinking")
+            Text("SwiftfulThinking")
         }
         .padding()
         .padding()
